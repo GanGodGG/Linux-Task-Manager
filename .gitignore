@@ -1,0 +1,5 @@
+/build/
+/bin/
+launch.json
+tasks.json
+/.vscode/
